@@ -2,6 +2,7 @@
 
 
 
+
 <a href="https://github.com/Chayanns">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanns&theme=dark&hide_langs_below=1" />
 </a>
@@ -9,19 +10,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chayanns&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Mario_Gameplay](https://github.com/Chayanns/chayanns/assets/149504061/3321bb55-c5e2-497f-b660-e22481b78978)
 
