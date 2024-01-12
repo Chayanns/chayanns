@@ -1,16 +1,27 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&size=21&duration=4999&pause=1000&color=3EA2CA&center=true&vCenter=true&random=false&width=435&lines=Oi+sou+a+Chayanne)](https://git.io/typing-svg)
 
-<!--
-**Chayanns/chayanns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Chayanns">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanns&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Chayanns">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chayanns&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Mario_Gameplay](https://github.com/Chayanns/chayanns/assets/149504061/3321bb55-c5e2-497f-b660-e22481b78978)
+
