@@ -12,8 +12,10 @@
 
 ### Studying in this moment:
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+	https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge
+https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
