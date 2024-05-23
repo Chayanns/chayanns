@@ -13,7 +13,7 @@
 ### Studying in this moment:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)&nbsp;
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)&nbsp;
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)&nbsp;
 [![Html](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
 [![Css](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
 
