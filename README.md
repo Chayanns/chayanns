@@ -13,8 +13,8 @@
 ### Studying in this moment:
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-Lin-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{chayanns}/count.svg" /></p> 
@@ -22,6 +22,6 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A3CEEF&height=120&section=footer"/>
 
 
