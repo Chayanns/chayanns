@@ -17,22 +17,17 @@
 
 ### Studying in this moment:
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)&nbsp;
-![Html](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
-![Css](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,java,docker,mysql)](https://skillicons.dev)
 
 
 <!-- <img align="center" alt="Docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"> -->
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{chayanns}/count.svg" /></p> 
-<br>
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A3CEEF&height=120&section=footer"/>
+
 
 
