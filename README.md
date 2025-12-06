@@ -15,7 +15,7 @@ Esse é o espaço onde eu coloco minha jornada em prática. Compartilho tudo que
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanns&layout=compact&langs_count=8" />
     </a>
     <a href="https://github.com/Chayanns">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chayanns&show_icons=true&line_height=24" alt="Shubhamdeep's github stats"/>
+   <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chayanns&show_icons=true&line_height=24" alt="Shubhamdeep's github stats"/> -->
     </a>
 </div>
 
