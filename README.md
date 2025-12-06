@@ -12,7 +12,7 @@ Esse é o espaço onde eu coloco minha jornada em prática. Compartilho tudo que
     <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanns&theme=dark&hide_langs_below=1" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 </a> -->
     <a href="https://github.com/Chayanns">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanns&layout=compact&langs_count=8" />
+   <!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanns&layout=compact&langs_count=8" /> -->
     </a>
     <a href="https://github.com/Chayanns">
    <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chayanns&show_icons=true&line_height=24" alt="Shubhamdeep's github stats"/> -->
