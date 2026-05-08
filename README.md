@@ -11,9 +11,14 @@ Esse é o espaço onde eu coloco minha jornada em prática. Compartilho tudo que
   <!--<a href="https://github.com/Chayanns">
     <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanns&theme=dark&hide_langs_below=1" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 </a> -->
-   <p align="center">
-  <img src="https://vani-stats.vercel.app/api?chayanns=TheOneOh1&theme=light" alt="Top Languages" />
-</p>
+  ```html
+<div align="center">
+  <p align="center">
+    <img src="https://vani-stats.vercel.app/api?username=Chayanns&theme=tokyonight" alt="Top Languages" />
+  </p>
+</div>
+```
+
 </div>
 
 ### Studying in this moment:
