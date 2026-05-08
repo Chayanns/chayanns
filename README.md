@@ -13,6 +13,7 @@ Esse é o espaço onde eu coloco minha jornada em prática. Compartilho tudo que
 </a> -->
     <a href="https://github.com/Chayanns">
    <!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanns&layout=compact&langs_count=8" /> -->
+      ![Top Languages](https://vani-stats.vercel.app/api?username=Chayanns&theme=tokyonight)
     </a>
     <a href="https://github.com/Chayanns">
    <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chayanns&show_icons=true&line_height=24" alt="Shubhamdeep's github stats"/> -->
